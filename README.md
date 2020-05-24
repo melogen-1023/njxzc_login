@@ -1,4 +1,4 @@
-# njxzc_login(晓庄认证接口)
+# njxzc_login
 
 ##### 第一步： 检查帐户是否需要验证
 
